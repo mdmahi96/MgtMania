@@ -1863,11 +1863,10 @@ function showStudentDetails(roll) {
         { key: 'SECTION', label: 'Section', icon: 'layer-group' },
         { key: 'PHONE', label: 'Phone', icon: 'phone', isPhone: true },
         { key: 'EMAIL', label: 'Email', icon: 'envelope', isEmail: true },
-		{ key: 'FACEBOOK', label: 'Facebook', icon: 'facebook', isLink: true },
+	{ key: 'FACEBOOK', label: 'Facebook', icon: 'facebook', isLink: true },
         { key: 'GENDER', label: 'Gender', icon: 'venus-mars' },
         { key: 'FATHER', label: 'Father\'s Name', icon: 'user' },
         { key: 'ADMISSION_ROLL', label: 'Admission Roll', icon: 'id-badge' },
-		{ key: 'QUOTA', label: 'Quota', icon: 'certificate' },
         { key: 'PHOTO', label: 'Photo Filename', icon: 'image' }
 		
     ];
