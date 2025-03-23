@@ -1,6 +1,4 @@
-// Reformed student data from the PDF file
-
-   const studentsData = [
+const studentsData = [
     {
         "NAME": "AFRIN SHOYA PUSHPA",
         "SECTION": "BUP MGT 10 sec A",
@@ -12,7 +10,8 @@
         "FATHER": "MD.SIDDIQUR RAHMAN BHUIYAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100618",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "AFRIN SHOYA PUSHPA.jpg"
     },
     {
         "NAME": "ANIQA ANAWAR",
@@ -25,7 +24,8 @@
         "FATHER": "MD. ANAWARUL HUDA",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025109957",
-        "FACEBOOK": "https://www.facebook.com/share/1FCWypoo4d/"
+        "FACEBOOK": "https://www.facebook.com/share/1FCWypoo4d/",
+        "PHOTO": "ANIQA ANAWAR.jpg"
     },
     {
         "NAME": "ARIANA NAWAR CHOWDHURY",
@@ -38,7 +38,8 @@
         "FATHER": "MORSHED AHMED CHOWDHURY",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025100379",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ARIANA NAWAR CHOWDHURY.jpg"
     },
     {
         "NAME": "ARNON JISAN HASDA",
@@ -51,7 +52,8 @@
         "FATHER": "SAMUEL HASDA",
         "QUOTA": "Ethnic Minority",
         "ADMISSION_ROLL": "1025107930",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ARNON JISAN HASDA.jpg"
     },
     {
         "NAME": "AZIZAH ZAHIN NANJEEBA",
@@ -64,7 +66,8 @@
         "FATHER": "SUFI MD. ATAUR RAHMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025101477",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "AZIZAH ZAHIN NANJEEBA.jpg"
     },
     {
         "NAME": "BATROWA DOFO MONA",
@@ -77,7 +80,8 @@
         "FATHER": "MALOY MRONG",
         "QUOTA": "Ethnic Minority",
         "ADMISSION_ROLL": "1025107243",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "BATROWA DOFO MONA.jpg"
     },
     {
         "NAME": "FARIA MEHZABEEN",
@@ -90,7 +94,8 @@
         "FATHER": "MD SAIFUL ISLAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104410",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "FARIA MEHZABEEN.jpg"
     },
     {
         "NAME": "FATEMA TUZ JAHURA MILU",
@@ -103,7 +108,8 @@
         "FATHER": "GHULAM RASUL KHAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107331",
-        "FACEBOOK": "https://www.facebook.com/milukhan4657"
+        "FACEBOOK": "https://www.facebook.com/milukhan4657",
+        "PHOTO": "FATEMA TUZ JAHURA MILU.jpg"
     },
     {
         "NAME": "HUMAIRA ZARIN TALUKDER",
@@ -116,7 +122,8 @@
         "FATHER": "MD.JAHANGIR HELAL TALUKDER",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100755",
-        "FACEBOOK": "https://www.facebook.com/humaira.zarin.talukder.2024"
+        "FACEBOOK": "https://www.facebook.com/humaira.zarin.talukder.2024",
+        "PHOTO": "HUMAIRA ZARIN TALUKDER.jpg"
     },
     {
         "NAME": "KAZI FARZAN AHMED",
@@ -129,7 +136,8 @@
         "FATHER": "FARID SHAH",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025106972",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "KAZI FARZAN AHMED.jpg"
     },
     {
         "NAME": "LABIBA MOSTAEEN",
@@ -142,7 +150,8 @@
         "FATHER": "MD. MOSTAEEN BILLAH",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025104807",
-        "FACEBOOK": "https://www.facebook.com/labiba.mostaeen.9"
+        "FACEBOOK": "https://www.facebook.com/labiba.mostaeen.9",
+        "PHOTO": "LABIBA MOSTAEEN.jpg"
     },
     {
         "NAME": "M. ZAWAD BILLAH KHAN",
@@ -155,7 +164,8 @@
         "FATHER": "MD. ZAKIR SAADULLAH KHAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025102545",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "M. ZAWAD BILLAH KHAN.jpg"
     },
     {
         "NAME": "MAHJUZA BINTE ZIAD",
@@ -168,7 +178,8 @@
         "FATHER": "ZIADUR RAHMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025101898",
-        "FACEBOOK": "https://www.facebook.com/mahjuza.jumaina.9"
+        "FACEBOOK": "https://www.facebook.com/mahjuza.jumaina.9",
+        "PHOTO": "MAHJUZA BINTE ZIAD.jpg"
     },
     {
         "NAME": "MANFIA TARANNUM MAISHA",
@@ -181,7 +192,8 @@
         "FATHER": "MD. MOHSIN UDDIN AHAMMED",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025105801",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MANFIA TARANNUM MAISHA.jpg"
     },
     {
         "NAME": "MD. KHALID SAIFULLAH SHAWON",
@@ -194,7 +206,8 @@
         "FATHER": "MD. NURUL AMIN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025103280",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MD. KHALID SAIFULLAH SHAWON.jpg"
     },
     {
         "NAME": "MD. RUBAYET FERDOUS RAFIN",
@@ -207,7 +220,8 @@
         "FATHER": "DEWAN MD. NAZMUL HOQUE",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102379",
-        "FACEBOOK": "https://www.facebook.com/md.rafin.767285"
+        "FACEBOOK": "https://www.facebook.com/md.rafin.767285",
+        "PHOTO": "MD. RUBAYET FERDOUS RAFIN.jpg"
     },
     {
         "NAME": "MD. SAIFULLAH AL SAMI",
@@ -220,7 +234,8 @@
         "FATHER": "MOHHMMD ABDULLAH",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025108840",
-        "FACEBOOK": "https://www.facebook.com/mamun.abdullah"
+        "FACEBOOK": "https://www.facebook.com/mamun.abdullah",
+        "PHOTO": "MD. SAIFULLAH AL SAMI.jpg"
     },
     {
         "NAME": "MD. THANVIR HOSSAIN ALIF",
@@ -233,7 +248,8 @@
         "FATHER": "MD. MOSHAROF HOSSEN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025109279",
-        "FACEBOOK": "https://www.facebook.com/mthalif96"
+        "FACEBOOK": "https://www.facebook.com/mthalif96",
+        "PHOTO": "MD. THANVIR HOSSAIN ALIF.jpg"
     },
     {
         "NAME": "MEGHDUT KABIR",
@@ -246,7 +262,8 @@
         "FATHER": "AHAMMADUL KABIR",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100858",
-        "FACEBOOK": "https://www.facebook.com/meghdut.kabir"
+        "FACEBOOK": "https://www.facebook.com/meghdut.kabir",
+        "PHOTO": "MEGHDUT KABIR.jpg"
     },
     {
         "NAME": "MOMSHAD TAMIMI",
@@ -259,7 +276,8 @@
         "FATHER": "ABUL BASHAR",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103082",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MOMSHAD TAMIMI.jpg"
     },
     {
         "NAME": "NABA CHOWDHURY",
@@ -272,7 +290,8 @@
         "FATHER": "NASIR CHOWDHURY",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025109314",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NABA CHOWDHURY.jpg"
     },
     {
         "NAME": "NADIA NIRAN HUSSAIN",
@@ -285,7 +304,8 @@
         "FATHER": "TANVEER HUSSAIN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107393",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NADIA NIRAN HUSSAIN.jpg"
     },
     {
         "NAME": "NAFIS HOSSAIN",
@@ -298,7 +318,8 @@
         "FATHER": "MOHAMMAD DELUAR HOSSAIN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107621",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NAFIS HOSSAIN.jpg"
     },
     {
         "NAME": "NAHIAN TASNIM",
@@ -311,7 +332,8 @@
         "FATHER": "MD NOKIBUL ISLAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025101819",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NAHIAN TASNIM.jpg"
     },
     {
         "NAME": "NAZIFA ALAM NOBONI",
@@ -324,7 +346,8 @@
         "FATHER": "MD MAKSUDUL ALAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025105360",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NAZIFA ALAM NOBONI.jpg"
     },
     {
         "NAME": "NEHLA NISHAT KHAN",
@@ -337,7 +360,8 @@
         "FATHER": "MD. NISHATUL ISLAM KHAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104847",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NEHLA NISHAT KHAN.jpg"
     },
     {
         "NAME": "NISHAT LAMIA OISHI",
@@ -350,7 +374,8 @@
         "FATHER": "ABU JAFOR KHAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025106459",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=100081973131989"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=100081973131989",
+        "PHOTO": "NISHAT LAMIA OISHI.jpg"
     },
     {
         "NAME": "RAZZIN MUHAMMAD DILSHAN",
@@ -363,7 +388,8 @@
         "FATHER": "MD. BADSHA ALAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025109929",
-        "FACEBOOK": "https://www.facebook.com/rm.rwinner"
+        "FACEBOOK": "https://www.facebook.com/rm.rwinner",
+        "PHOTO": "RAZZIN MUHAMMAD DILSHAN.jpg"
     },
     {
         "NAME": "S M ITRAT ZAMAN (ABRAR)",
@@ -376,7 +402,8 @@
         "FATHER": "S M ASHRAFUZZAMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104695",
-        "FACEBOOK": "https://www.facebook.com/share/19mNhAN4ue/"
+        "FACEBOOK": "https://www.facebook.com/share/19mNhAN4ue/",
+        "PHOTO": "S M ITRAT ZAMAN (ABRAR).jpg"
     },
     {
         "NAME": "SADMAN SAKIB FAHIM",
@@ -389,7 +416,8 @@
         "FATHER": "MD. SHAMSUL ALAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025108093",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SADMAN SAKIB FAHIM.jpg"
     },
     {
         "NAME": "SAFIA ISLAM NIRMONI",
@@ -402,7 +430,8 @@
         "FATHER": "MD. SHOHIDUL ISLAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025102288",
-        "FACEBOOK": "https://www.facebook.com/safia.islam.895777"
+        "FACEBOOK": "https://www.facebook.com/safia.islam.895777",
+        "PHOTO": "SAFIA ISLAM NIRMONI.jpg"
     },
     {
         "NAME": "SAMIUN BIN AZAD",
@@ -415,7 +444,8 @@
         "FATHER": "ABUL KALAM AZAD",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100853",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SAMIUN BIN AZAD.jpg"
     },
     {
         "NAME": "SARAH HAQUE",
@@ -428,7 +458,8 @@
         "FATHER": "MD. MAMUNUL HAQ",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025108224",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SARAH HAQUE.jpg"
     },
     {
         "NAME": "SARAH MAHBUB",
@@ -441,7 +472,8 @@
         "FATHER": "MOHAMMAD SHAHED MAHBUB BHUYA",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025104030",
-        "FACEBOOK": "https://www.facebook.com/sarah.mahbub.03"
+        "FACEBOOK": "https://www.facebook.com/sarah.mahbub.03",
+        "PHOTO": "SARAH MAHBUB.jpg"
     },
     {
         "NAME": "SHARIKA TAZRIA",
@@ -454,7 +486,8 @@
         "FATHER": "MD. SHAFIUR RAHMAN AKOND",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103569",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SHARIKA TAZRIA.jpg"
     },
     {
         "NAME": "SIAM SAIM SHIRSHO",
@@ -467,7 +500,8 @@
         "FATHER": "MD. NURUL ALAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107120",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SIAM SAIM SHIRSHO.jpg"
     },
     {
         "NAME": "SK. ANISA ISLAM",
@@ -480,7 +514,8 @@
         "FATHER": "SK. REAZUL ISLAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025101114",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "SK. ANISA ISLAM.jpg"
     },
     {
         "NAME": "TABASSUM BINTE TAREK",
@@ -493,7 +528,8 @@
         "FATHER": "TAREK MOHAMMAD BHAOWALI",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102594",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "TABASSUM BINTE TAREK.jpg"
     },
     {
         "NAME": "TAHMIDUR RAHMAN SAMIN",
@@ -506,7 +542,8 @@
         "FATHER": "MD. MONZUR RAHMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025110163",
-        "FACEBOOK": "https://www.facebook.com/tahmid.samin.1276"
+        "FACEBOOK": "https://www.facebook.com/tahmid.samin.1276",
+        "PHOTO": "TAHMIDUR RAHMAN SAMIN.jpg"
     },
     {
         "NAME": "WASHIMA HAQUE PARAMA",
@@ -519,7 +556,8 @@
         "FATHER": "M. H. M OBAIDUL HAQUE AKASH",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025104937",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "WASHIMA HAQUE PARAMA.jpg"
     },
     {
         "NAME": "ZAARA TAZRIAN",
@@ -532,7 +570,8 @@
         "FATHER": "SHAHED AHMED SIDDIQUE",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100140",
-        "FACEBOOK": "https://www.facebook.com/zaara.tazrian"
+        "FACEBOOK": "https://www.facebook.com/zaara.tazrian",
+        "PHOTO": "ZAARA TAZRIAN.jpg"
     },
     {
         "NAME": "ZAIMA ZAHEEN IFFAT",
@@ -545,7 +584,8 @@
         "FATHER": "MD ZAHIDUL ISLAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102020",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ZAIMA ZAHEEN IFFAT.jpg"
     },
     {
         "NAME": "ZAREEFA BINTE ANOWER",
@@ -558,7 +598,8 @@
         "FATHER": "MOHAMMAD ANOWERUL KABIR",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103624",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ZAREEFA BINTE ANOWER.jpg"
     },
     {
         "NAME": "ZINIARA YESMINE",
@@ -571,7 +612,8 @@
         "FATHER": "MD. ABDUL ZALIL",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104723",
-        "FACEBOOK": "https://www.facebook.com/ziniara.zisa"
+        "FACEBOOK": "https://www.facebook.com/ziniara.zisa",
+        "PHOTO": "ZINIARA YESMINE.jpg"
     },
     {
         "NAME": "ZINNUR ROKAIYA",
@@ -584,8 +626,9 @@
         "FATHER": "IMTIAZ AHMED",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025107986",
-        "FACEBOOK": ""
-    },
+        "FACEBOOK": "",
+        "PHOTO": "ZINNUR ROKAIYA.jpg"
+    }, 
 	{
         "NAME": "ABDULLAH AL MUNEM MUHTASIM",
         "SECTION": "BUP MGT 10 sec B",
@@ -597,7 +640,8 @@
         "FATHER": "ABU TAHAR SARDER",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025105813",
-        "FACEBOOK": "https://www.facebook.com/share/1CCuyvSVLf/"
+        "FACEBOOK": "https://www.facebook.com/share/1CCuyvSVLf/",
+        "PHOTO": "ABDULLAH AL MUNEM MUHTASIM.jpg"
     },
     {
         "NAME": "ADIB BIN YOUSUF",
@@ -610,7 +654,8 @@
         "FATHER": "MD. YOUSUF ALI",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025100899",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ADIB BIN YOUSUF.jpg"
     },
     {
         "NAME": "AFTAN UL HAQUE FARHAN",
@@ -623,7 +668,8 @@
         "FATHER": "MD NAZRUL HAQUE",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100641",
-        "FACEBOOK": "https://www.facebook.com/aftanul.farhan"
+        "FACEBOOK": "https://www.facebook.com/aftanul.farhan",
+        "PHOTO": "AFTAN UL HAQUE FARHAN.jpg"
     },
     {
         "NAME": "AHNAF HAMEED RAUF",
@@ -636,7 +682,8 @@
         "FATHER": "REZA UDDIN AHMED",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107453",
-        "FACEBOOK": "https://www.facebook.com/ahnaf.reza.735"
+        "FACEBOOK": "https://www.facebook.com/ahnaf.reza.735",
+        "PHOTO": "AHNAF HAMEED RAUF.jpg"
     },
     {
         "NAME": "ANISA NUSRAT TAHSIN",
@@ -649,7 +696,8 @@
         "FATHER": "MD ANISUR RAHMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025101154",
-        "FACEBOOK": ""
+        "FACEBOOK": "https://www.facebook.com/anisa.nusrat.5602",
+        "PHOTO": "ANISA NUSRAT TAHSIN.jpg"
     },
     {
         "NAME": "ANNISA AMIR",
@@ -662,7 +710,8 @@
         "FATHER": "SHEKH AMIR HAMJA",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025104621",
-        "FACEBOOK": "https://www.facebook.com/ni.sah.75033"
+        "FACEBOOK": "https://www.facebook.com/ni.sah.75033",
+        "PHOTO": "ANNISA AMIR.jpg"
     },
     {
         "NAME": "ASADUR ZAMAN PRANTO",
@@ -675,7 +724,8 @@
         "FATHER": "ABDUL AZIZ",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104569",
-        "FACEBOOK": "https://www.facebook.com/Aj.pranto784"
+        "FACEBOOK": "https://www.facebook.com/Aj.pranto784",
+        "PHOTO": "ASADUR ZAMAN PRANTO.jpg"
     },
     {
         "NAME": "ASHFI ABEDIN",
@@ -688,7 +738,8 @@
         "FATHER": "MD. ZAINAL ABEDIN BULBUL",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107832",
-        "FACEBOOK": "https://www.facebook.com/ashfi.a.4"
+        "FACEBOOK": "https://www.facebook.com/ashfi.a.4",
+        "PHOTO": "ASHFI ABEDIN.jpg"
     },
     {
         "NAME": "CHOWDHURY MAHADIR MUKADDAS",
@@ -701,7 +752,8 @@
         "FATHER": "CHOWDHURY MD. TARIK TAZAMMUL",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100836",
-        "FACEBOOK": "https://www.facebook.com/ch.mahadir.mukaddas"
+        "FACEBOOK": "https://www.facebook.com/ch.mahadir.mukaddas",
+        "PHOTO": "CHOWDHURY MAHADIR MUKADDAS.jpg"
     },
     {
         "NAME": "FARIHA RAHMAN SHEMONTI",
@@ -714,7 +766,8 @@
         "FATHER": "MD.SHAZZADUR RAHMAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025103655",
-        "FACEBOOK": "https://www.facebook.com/faria.rahman.shemonti"
+        "FACEBOOK": "https://www.facebook.com/faria.rahman.shemonti",
+        "PHOTO": "FARIHA RAHMAN SHEMONTI.jpg"
     },
     {
         "NAME": "HUMAIRA HASAN PRIOTA",
@@ -727,7 +780,8 @@
         "FATHER": "MD. HASAN MAHMUD",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025104314",
-        "FACEBOOK": "https://www.facebook.com/priotahs47"
+        "FACEBOOK": "https://www.facebook.com/priotahs47",
+        "PHOTO": "HUMAIRA HASAN PRIOTA.jpg"
     },
     {
         "NAME": "IFTA ARNOB SARKER",
@@ -740,7 +794,8 @@
         "FATHER": "IFTA HASSANUL KARIM SARKER",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025109518",
-        "FACEBOOK": "https://www.facebook.com/share/1AYRyAAL5C/"
+        "FACEBOOK": "https://www.facebook.com/share/1AYRyAAL5C/",
+        "PHOTO": "IFTA ARNOB SARKER.jpg"
     },
     {
         "NAME": "INAN AHMAD",
@@ -753,7 +808,8 @@
         "FATHER": "DR AKM MASUD ALAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025108958",
-        "FACEBOOK": "https://www.facebook.com/inan.ahmad.33"
+        "FACEBOOK": "https://www.facebook.com/inan.ahmad.33",
+        "PHOTO": "INAN AHMAD.jpg"
     },
     {
         "NAME": "IRFAN IBNA SAYED",
@@ -766,7 +822,8 @@
         "FATHER": "GOLAM ABU SAYED",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103297",
-        "FACEBOOK": "https://www.facebook.com/shourov.irfan"
+        "FACEBOOK": "https://www.facebook.com/shourov.irfan",
+        "PHOTO": "IRFAN IBNA SAYED.jpg"
     },
     {
         "NAME": "JUBAER HISHAM SHAFI",
@@ -779,7 +836,8 @@
         "FATHER": "MD. JAHIRUL ISLAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100815",
-        "FACEBOOK": "https://www.facebook.com/share/18oYL4NLW4/"
+        "FACEBOOK": "https://www.facebook.com/share/18oYL4NLW4/",
+        "PHOTO": "JUBAER HISHAM SHAFI.jpg"
     },
     {
         "NAME": "K. M LABIB MARZUQ",
@@ -792,7 +850,8 @@
         "FATHER": "MD. KAMRUL HASAN KHAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102138",
-        "FACEBOOK": "https://www.facebook.com/labib.marzuq.773"
+        "FACEBOOK": "https://www.facebook.com/labib.marzuq.773",
+        "PHOTO": "K. M LABIB MARZUQ.jpg"
     },
     {
         "NAME": "KAZI RAISA MOSTAFA BORSHONA",
@@ -805,7 +864,8 @@
         "FATHER": "KAZI GOLAM MOSTAFA",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025106612",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "KAZI RAISA MOSTAFA BORSHONA.jpg"
     },
     {
         "NAME": "MALIHA BINTE MAMUN",
@@ -818,7 +878,8 @@
         "FATHER": "MD. SHAH MAMUN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104297",
-        "FACEBOOK": "https://www.facebook.com/malihabinte.mamun.71"
+        "FACEBOOK": "https://www.facebook.com/malihabinte.mamun.71",
+        "PHOTO": "MALIHA BINTE MAMUN.jpg"
     },
     {
         "NAME": "MD ABRAR JAHIN",
@@ -831,7 +892,8 @@
         "FATHER": "MD SHAHEEN IQBAL",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104223",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=61560890530252"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=61560890530252",
+        "PHOTO": "MD ABRAR JAHIN.jpg"
     },
     {
         "NAME": "MD. JAHIN JAMAN EZAD",
@@ -844,7 +906,8 @@
         "FATHER": "MD. MONIRUJJAMAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100015",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=61563942845667"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=61563942845667",
+        "PHOTO": "MD. JAHIN JAMAN EZAD.jpg"
     },
     {
         "NAME": "MD. MUNTASIR ISLAM",
@@ -857,7 +920,8 @@
         "FATHER": "MD. NAZRUL ISLAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025108974",
-        "FACEBOOK": "https://www.facebook.com/muntasir.islam.739"
+        "FACEBOOK": "https://www.facebook.com/muntasir.islam.739",
+        "PHOTO": "MD. MUNTASIR ISLAM.jpg"
     },
     {
         "NAME": "MD. MUZTABA RAFID MAHI",
@@ -870,7 +934,8 @@
         "FATHER": "MD. RUHUL AMIN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104533",
-        "FACEBOOK": "https://www.facebook.com/rakib.ul.islam.323823"
+        "FACEBOOK": "https://www.facebook.com/Muztaba.Rafid.Mahi",
+        "PHOTO": "MD. MUZTABA RAFID MAHI.jpg"
     },
     {
         "NAME": "MD. SAMIUL SHIKDER",
@@ -883,7 +948,8 @@
         "FATHER": "MD. ABU SHAMA",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025100125",
-        "FACEBOOK": "https://www.facebook.com/samiul.shikder.796"
+        "FACEBOOK": "https://www.facebook.com/samiul.shikder.796",
+        "PHOTO": "MD. SAMIUL SHIKDER.jpg"
     },
     {
         "NAME": "MD. TAWHIDUR RAHMAN",
@@ -896,7 +962,8 @@
         "FATHER": "MD. ANISUR RAHMAN BHUIYAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025103361",
-        "FACEBOOK": "https://www.facebook.com/tawhidur.rahman.77377"
+        "FACEBOOK": "https://www.facebook.com/tawhidur.rahman.77377",
+        "PHOTO": "MD. TAWHIDUR RAHMAN.jpg"
     },
     {
         "NAME": "MEHAJABIN AKTER",
@@ -909,7 +976,8 @@
         "FATHER": "MD. ABDUL HANNAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025109456",
-        "FACEBOOK": "https://www.facebook.com/share/1AU7rF2K55/"
+        "FACEBOOK": "https://www.facebook.com/share/1AU7rF2K55/",
+        "PHOTO": "MEHAJABIN AKTER.jpg"
     },
     {
         "NAME": "MOHAMMAD MASHRUR RAHMAN",
@@ -922,7 +990,8 @@
         "FATHER": "MOHAMMAD LUTFOR RAHMAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025107769",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MOHAMMAD MASHRUR RAHMAN.jpg"
     },
     {
         "NAME": "MUMTAHANA TUBA",
@@ -935,7 +1004,8 @@
         "FATHER": "KAMRUL HASAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102477",
-        "FACEBOOK": "https://www.facebook.com/tahzeeb.tuba.2024"
+        "FACEBOOK": "https://www.facebook.com/tahzeeb.tuba.2024",
+        "PHOTO": "MUMTAHANA TUBA.jpg"
     },
     {
         "NAME": "MUNSHI MD. FAHIM FAISAL",
@@ -948,9 +1018,14 @@
         "FATHER": "MUNSHI MD. RAIS UDDIN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100406",
-        "FACEBOOK": "https://www.facebook.com/md.faisal.757787"
+        "FACEBOOK": "https://www.facebook.com/md.faisal.757787",
+        "PHOTO": "MUNSHI MD. FAHIM FAISAL.jpg"
     },
-    {
+	
+	
+	
+	
+	{
         "NAME": "NABEEHA TAIYEBA",
         "SECTION": "BUP MGT 10 sec B",
         "ROLL": "25241610144",
@@ -961,7 +1036,8 @@
         "FATHER": "JAMIL TAJUL HUSSAIN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025103338",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=100012231976583"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=100012231976583",
+        "PHOTO": "NABEEHA TAIYEBA.jpg"
     },
     {
         "NAME": "NOSHIN TARANNUM ARA",
@@ -974,7 +1050,8 @@
         "FATHER": "MD ASLAM UDDIN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025105362",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "NOSHIN TARANNUM ARA.jpg"
     },
     {
         "NAME": "NUSAIBA RAHMAN",
@@ -987,7 +1064,8 @@
         "FATHER": "M A MANIK",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025102446",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=61551857317724"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=61551857317724",
+        "PHOTO": "NUSAIBA RAHMAN.jpg"
     },
     {
         "NAME": "NUZHAT HASAN",
@@ -1000,7 +1078,8 @@
         "FATHER": "A. K. M.  NAZMUL HASAN",
         "QUOTA": "Freedom Fighter",
         "ADMISSION_ROLL": "1025104594",
-        "FACEBOOK": "https://www.facebook.com/share/1BpWMVtuyf/"
+        "FACEBOOK": "https://www.facebook.com/share/1BpWMVtuyf/",
+        "PHOTO": "NUZHAT HASAN.jpg"
     },
     {
         "NAME": "RAISHA SULTANA RAIYA",
@@ -1013,7 +1092,8 @@
         "FATHER": "RAIHAN KABIR",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102007",
-        "FACEBOOK": "https://www.facebook.com/adiba.nur.908132"
+        "FACEBOOK": "https://www.facebook.com/adiba.nur.908132",
+        "PHOTO": "RAISHA SULTANA RAIYA.jpg"
     },
     {
         "NAME": "REDOWANUL HOQUE BHUIYAN AYON",
@@ -1026,7 +1106,8 @@
         "FATHER": "FAZLUL HAQUE BHUYAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025104243",
-        "FACEBOOK": "https://www.facebook.com/share/1XcsXySj8s/"
+        "FACEBOOK": "https://www.facebook.com/share/1XcsXySj8s/",
+        "PHOTO": "REDOWANUL HOQUE BHUIYAN AYON.jpg"
     },
     {
         "NAME": "S M SAKIF DAIYAN",
@@ -1039,7 +1120,8 @@
         "FATHER": "SYED ABDUS SAMAD",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025109888",
-        "FACEBOOK": "https://www.facebook.com/syed.sakif.50"
+        "FACEBOOK": "https://www.facebook.com/syed.sakif.50",
+        "PHOTO": "S M SAKIF DAIYAN.jpg"
     },
     {
         "NAME": "SALSABIL NUWWAR KUDROT RAMITA",
@@ -1052,7 +1134,8 @@
         "FATHER": "ABDUL MONAIEM KUDROTULLAH",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102086",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=100087972114113"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=100087972114113",
+        "PHOTO": "SALSABIL NUWWAR KUDROT RAMITA.jpg"
     },
     {
         "NAME": "SAMIA SADEK ILMA",
@@ -1065,7 +1148,8 @@
         "FATHER": "MOHAMMAD ABU SADEK",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025102220",
-        "FACEBOOK": "https://www.facebook.com/samia.sadek.2024"
+        "FACEBOOK": "https://www.facebook.com/samia.sadek.2024",
+        "PHOTO": "SAMIA SADEK ILMA.jpg"
     },
     {
         "NAME": "SANJIDA ISLAM MITHY",
@@ -1078,7 +1162,8 @@
         "FATHER": "MD FOURKAN UDDIN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025106846",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=61573986115894"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=61573986115894",
+        "PHOTO": "SANJIDA ISLAM MITHY"
     },
     {
         "NAME": "SHAIKH ABU DAUD",
@@ -1091,7 +1176,8 @@
         "FATHER": "SHAIKH ABU ZUBAIR",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025101026",
-        "FACEBOOK": "https://www.facebook.com/Daud.Madridista22"
+        "FACEBOOK": "https://www.facebook.com/Daud.Madridista22",
+        "PHOTO": "SHAIKH ABU DAUD.jpg"
     },
     {
         "NAME": "SYEDA PARIZAD ROOMY",
@@ -1104,7 +1190,8 @@
         "FATHER": "MASROOR S A ROOMY",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103034",
-        "FACEBOOK": "https://www.facebook.com/arisaroomy"
+        "FACEBOOK": "https://www.facebook.com/arisaroomy",
+        "PHOTO": "SYEDA PARIZAD ROOMY.jpg"
     },
     {
         "NAME": "TABASA ALAM MIM",
@@ -1117,7 +1204,8 @@
         "FATHER": "MD. NOOR- A- ALAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1023110198",
-        "FACEBOOK": "https://www.facebook.com/tabasaalam.mim.3"
+        "FACEBOOK": "https://www.facebook.com/tabassumsabahmim#",
+        "PHOTO": "TABASA ALAM MIM.jpg"
     },
     {
         "NAME": "TAHIA TASNIM NASHITA",
@@ -1130,7 +1218,8 @@
         "FATHER": "MD. ABDUL NOMAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025108595",
-        "FACEBOOK": "https://www.facebook.com/naashhii"
+        "FACEBOOK": "https://www.facebook.com/naashhii",
+        "PHOTO": "TAHIA TASNIM NASHITA.jpg"
     },
     {
         "NAME": "TAHSIN AHMED SOHA",
@@ -1143,7 +1232,8 @@
         "FATHER": "SHAMIM AHMED",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025100313",
-        "FACEBOOK": "https://www.facebook.com/share/16HHFH3AbQ/"
+        "FACEBOOK": "https://www.facebook.com/share/16HHFH3AbQ/",
+        "PHOTO": "TAHSIN AHMED SOHA.jpg"
     },
     {
         "NAME": "TASNEEM SAMEEHA ISLAM",
@@ -1156,7 +1246,8 @@
         "FATHER": "MOHAMMAD SHAIFUL ISLAM BHUIYAN",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025103222",
-        "FACEBOOK": "https://www.facebook.com/tasneem.sameeha"
+        "FACEBOOK": "https://www.facebook.com/tasneem.sameeha",
+        "PHOTO": "TASNEEM SAMEEHA ISLAM.jpg"
     },
     {
         "NAME": "TASNIA SHAHRIAR",
@@ -1169,7 +1260,8 @@
         "FATHER": "HASAN SHAHRIAR MD. NURUZZAMAN",
         "QUOTA": "Freedom Fighter",
         "ADMISSION_ROLL": "1025104693",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=100086008737991"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=100086008737991",
+        "PHOTO": "TASNIA SHAHRIAR.jpg"
     },
     {
         "NAME": "WAHED AL MAHMUD AHNAF",
@@ -1182,7 +1274,8 @@
         "FATHER": "MD. NURUL HUDA",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025109454",
-        "FACEBOOK": "https://www.facebook.com/profile.php?id=61573052785266"
+        "FACEBOOK": "https://www.facebook.com/profile.php?id=61573052785266",
+        "PHOTO": "WAHED AL MAHMUD AHNAF.jpg"
     },
     {
         "NAME": "ZANNATUL AFRIN DORIN",
@@ -1195,7 +1288,8 @@
         "FATHER": "CHAND ALI",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025106780",
-        "FACEBOOK": "https://www.facebook.com/zannatul.dorin"
+        "FACEBOOK": "https://www.facebook.com/zannatul.dorin",
+        "PHOTO": "ZANNATUL AFRIN DORIN.jpg"
     },
     {
         "NAME": "ZARA TAHIYAT",
@@ -1208,9 +1302,10 @@
         "FATHER": "MD. ABDUR RAZZAK",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025108443",
-        "FACEBOOK": "https://www.facebook.com/share/1BL6T2DvN9/"
+        "FACEBOOK": "https://www.facebook.com/share/1BL6T2DvN9/",
+        "PHOTO": "ZARA TAHIYAT.jpg"
     },
-   {
+    {
         "NAME": "ABID AL HASAN PUSPO",
         "SECTION": "(Migrated)",
         "ROLL": "25241610009",
@@ -1221,7 +1316,8 @@
         "FATHER": "KHORSHED ALAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025109228",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "ABID AL HASAN PUSPO.jpg"
     },
     {
         "NAME": "MUZTOBA ALAM SHAFIN",
@@ -1234,7 +1330,8 @@
         "FATHER": "AL MAMUN MD. MANZER-E-ALAM",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025105015",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MUZTOBA ALAM SHAFIN.jpg"
     },
     {
         "NAME": "MOSHUD MONJUR BARSHO",
@@ -1247,7 +1344,8 @@
         "FATHER": "SHEIKH MONJUR BARI MONJU",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025111087",
-        "FACEBOOK": ""
+        "FACEBOOK": "",
+        "PHOTO": "MOSHUD MONJUR BARSHO.jpg"
     },
     {
         "NAME": "NASIF AL SAKIB",
@@ -1260,7 +1358,8 @@
         "FATHER": "MD. SHAHEEN MIAH",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025111120",
-        "FACEBOOK": "https://www.facebook.com/NAS.lll"
+        "FACEBOOK": "https://www.facebook.com/NAS.lll",
+        "PHOTO": "NASIF AL SAKIB.jpg"
     },
     {
         "NAME": "MD. RAKIBUL ISLAM",
@@ -1273,7 +1372,8 @@
         "FATHER": "MD. RAFIQUL ISLAM",
         "QUOTA": "Special Quota",
         "ADMISSION_ROLL": "1025110206",
-        "FACEBOOK": "https://www.facebook.com/rakib.ul.islam.323823"
+        "FACEBOOK": "https://www.facebook.com/rakib.ul.islam.323823",
+        "PHOTO": "MD. RAKIBUL ISLAM.jpg"
     },
     {
         "NAME": "MUSHFIQA RAHMAN",
@@ -1286,7 +1386,8 @@
         "FATHER": "MD.MONSUR RAHMAN",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025106363",
-        "FACEBOOK": "https://www.facebook.com/share/153L2d4JDk/"
+        "FACEBOOK": "https://www.facebook.com/share/153L2d4JDk/",
+        "PHOTO": "MUSHFIQA RAHMAN.jpg"
     },
     {
         "NAME": "SAMIA FARUK",
@@ -1299,10 +1400,10 @@
         "FATHER": "SARDER ZAGLUL FARUK",
         "QUOTA": "Non-Quota",
         "ADMISSION_ROLL": "1025101690",
-        "FACEBOOK": "https://www.facebook.com/samia.faruk.21"
+        "FACEBOOK": "https://www.facebook.com/samia.faruk.21",
+        "PHOTO": "SAMIA FARUK.jpg"
     }
 ];
-
 
 // Variables for pagination and filtering
 const itemsPerPage = 10;
@@ -1326,7 +1427,7 @@ function initializeApp() {
     sectionABtn = document.getElementById('sectionABtn');
     sectionBBtn = document.getElementById('sectionBBtn');
     allSectionsBtn = document.getElementById('allSectionsBtn');
-	migratedBtn = document.getElementById('migratedBtn');
+    migratedBtn = document.getElementById('migratedBtn');
     
     // Create suggestions container if it doesn't exist
     if (!document.getElementById('suggestionsContainer')) {
@@ -1361,6 +1462,32 @@ function initializeApp() {
             .highlight {
                 font-weight: bold;
                 color: #4a89dc;
+            }
+            .student-photo {
+                width: 150px;
+                height: 180px;
+                object-fit: cover;
+                border: 2px solid #ddd;
+                border-radius: 5px;
+                margin-bottom: 15px;
+            }
+            .photo-container {
+                text-align: center;
+                margin-bottom: 20px;
+            }
+            .no-photo {
+                width: 150px;
+                height: 180px;
+                background-color: #f0f0f0;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                border-radius: 5px;
+                margin: 0 auto;
+            }
+            .no-photo i {
+                font-size: 48px;
+                color: #aaa;
             }
         `;
         document.head.appendChild(style);
@@ -1426,12 +1553,12 @@ function setupEventListeners() {
         updateSectionButtons();
         resetFilters();
     });
-	
-	migratedBtn.addEventListener('click', () => {
-    activeSection = 'migrated';
-    updateSectionButtons();
-    filterStudents(searchInput.value);
-});
+    
+    migratedBtn.addEventListener('click', () => {
+        activeSection = 'migrated';
+        updateSectionButtons();
+        filterStudents(searchInput.value);
+    });
     
     // Close modal when X is clicked
     document.querySelector('.close-modal').addEventListener('click', closeModal);
@@ -1565,8 +1692,6 @@ function filterStudents(searchTerm) {
     currentPage = 1;
     displayStudents();
 }
-    
-   
 
 function filterBySection(section) {
     filteredStudents = studentsData.filter(student => 
@@ -1722,18 +1847,29 @@ function showStudentDetails(roll) {
     // Create HTML for student info
     let infoHTML = '';
     
+    // Add photo at the top
+    infoHTML += `<div class="photo-container">`;
+    if (student.PHOTO) {
+        infoHTML += `<img src="images/${student.PHOTO}" alt="${student.NAME}" class="student-photo" onerror="this.onerror=null; this.parentNode.innerHTML='<div class=\\'no-photo\\'><i class=\\'fas fa-user\\'></i></div>';">`;
+    } else {
+        infoHTML += `<div class="no-photo"><i class="fas fa-user"></i></div>`;
+    }
+    infoHTML += `</div>`;
+    
     // Define the order and fields to display
     const fields = [
-		{ key: 'Sl No', label: 'Sl No', icon: 'sticky-note' },
+        { key: 'Sl No', label: 'Sl No', icon: 'sticky-note' },
         { key: 'ROLL', label: 'ID Number', icon: 'id-card' },
         { key: 'SECTION', label: 'Section', icon: 'layer-group' },
-		{ key: 'PHONE', label: 'Phone', icon: 'phone', isPhone: true },
-		{ key: 'EMAIL', label: 'Email', icon: 'envelope', isEmail: true },
+        { key: 'PHONE', label: 'Phone', icon: 'phone', isPhone: true },
+        { key: 'EMAIL', label: 'Email', icon: 'envelope', isEmail: true },
+		{ key: 'FACEBOOK', label: 'Facebook', icon: 'facebook', isLink: true },
         { key: 'GENDER', label: 'Gender', icon: 'venus-mars' },
         { key: 'FATHER', label: 'Father\'s Name', icon: 'user' },
         { key: 'ADMISSION_ROLL', label: 'Admission Roll', icon: 'id-badge' },
-        
-        
+		{ key: 'QUOTA', label: 'Quota', icon: 'certificate' },
+        { key: 'PHOTO', label: 'Photo Filename', icon: 'image' }
+		
     ];
     
     fields.forEach(field => {
