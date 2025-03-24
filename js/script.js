@@ -1297,7 +1297,7 @@ const studentsData = [
         "ROLL": "25241610098",
         "Sl No": "25",
         "EMAIL": "yoaraz643@gmail.com",
-        "PHONE": "880 1740-875050",
+        "PHONE": "880 1408-750500",
         "GENDER": "Female",
         "FATHER": "MD. ABDUR RAZZAK",
         "QUOTA": "Non-Quota",
